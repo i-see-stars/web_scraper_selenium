@@ -10,7 +10,8 @@ Web Scraper, реализованный с помощью библиотеки `
 
 ### Установка и запуск
 
-- Переходим в склонированную директорию
+- Клонируем репозиторий `git clone https://github.com/i-see-stars/web_scraper_selenium.git`
+- Переходим в склонированный репозиторий `cd web_scraper_selenium`
 - `python3 -m venv .venv`
 - `source .venv/bin/activate`
 - `python -m pip install -r requirements.txt`
